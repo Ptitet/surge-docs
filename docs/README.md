@@ -1,7 +1,19 @@
 # Surge
 
-Bienvenue sur la documentation de Surge, le bot Discord pour gérer des évènements.
+Bienvenue sur la documentation de Surge, le bot Discord pour gérer des évènements personnalisables et plus encore.
 
-## Guide
+# Fonctionnalités
 
-Un guide d'exemple pour aider à la configuration des évènements est disponible [ici](guide/exemple.md).
+- ✅ Système d'inscription personnalisé aux évènements
+- ✅ Possibilité pour les membres de créer des groupes
+- ✅ Mentions de rôle lors du début d'un évènement
+- ✅ Évènements avec une récurrence sur une semaine
+- ✅ Statistiques des inscrits
+- ✅ Messages automatique de bienvenu et de départ
+
+# Documentation
+
+Pour en apprendre plus sur le fonctionnement de Surge, vous pouvez :
+
+- [Consulter les guides](/guides/) : les guides expliquent pas à pas comment réaliser certaines actions avec le bot
+- [Consulter les commandes](/commandes/) : une description de chaque commande est disponible 
