@@ -6,7 +6,7 @@ Imaginons un club de tennis qui organise un entrainement le samedi soir avec bar
 
 ## Dates
 
-L'évènement à lieu le samedi soir, il commence vers 17h, et se termine vers 23h30. Ceux deux dates correspondent respectivement à la date de début de l'évènement, et à la date de fin, dont nous parlerons le plus souvent sous le nom de "date de réinitialisation".
+L'évènement à lieu le samedi soir, il commence vers 17h, et se termine vers 23h30. Ces deux dates correspondent respectivement à la date de début de l'évènement, et à la date de fin, dont nous parlerons le plus souvent sous le nom de "date de réinitialisation".
 
 ## Catégories
 
