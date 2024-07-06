@@ -9,7 +9,7 @@ Bienvenue sur la documentation de Surge, le bot Discord pour gérer des évènem
 - ✅ Mentions de rôle lors du début d'un évènement
 - ✅ Évènements avec une récurrence sur une semaine
 - ✅ Statistiques des inscrits
-- ✅ Messages automatique de bienvenu et de départ
+- ✅ Messages automatiques de bienvenu et de départ
 
 # Documentation
 
