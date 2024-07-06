@@ -1,6 +1,6 @@
 # Création d'un évènement
 
-Imaginons un club de tennis qui organise un entrainement le samedi soir avec barbecue. Nous allons voir dans ce guide comment créer un évènement avec Surge pour gérer cela au mieux.
+Imaginons un club de tennis qui organise un entrainement le samedi soir avec un barbecue ensuite. Nous allons voir dans ce guide comment créer un évènement avec Surge pour gérer cela au mieux.
 
 # Définition des besoins
 
@@ -37,7 +37,7 @@ Il faut rentrer ici le titre ainsi que la description de l'évènement. Cette de
 
 Quand vous avez fini, cliquez sur envoyer.
 
-!> Si vous cliquez en dehors d'un formulaire durant la création de l'évènement et que celui-ci disparait, il faudra recommencer de zéro. Avant de recommencer, n'oubliez pas de supprimer l'ancien évènement avec la commande `/event delete`
+!> Si vous cliquez en dehors d'un formulaire durant la création de l'évènement et que celui-ci disparait, faite simplement la commande `/event create type:continue` pour reprendre la création sans avoir besoin de tout recommencer.
 
 ## Dates
 
@@ -86,9 +86,9 @@ On clique sur "➕ Option" pour ajouter la première option :
 
 ![Formulaire pour le nom d'une option](images/modal-option-title.png)
 
-Après avoir cliqué sur "Envoyer", on peut refaire la même chose pour la deuxième option, "🍻 Boisson"
+Après avoir cliqué sur "Envoyer", on peut refaire la même chose pour la deuxième option, "🍻 Boisson".
 
-> Il est recommandé d'inclure un emoji dans le nom des options. Attention cependant : il ne peut être présent qu'un début du nom de l'option.
+> Il est recommandé d'inclure un emoji dans le nom des options. Attention cependant : il ne peut être présent qu'au début du nom de l'option.
 
 Lorsque les toutes les options ont été ajoutées, on clique sur "✅ Suivant".
 
